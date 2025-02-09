@@ -45,26 +45,5 @@ Finally, once you are done writing your bot, press the Run button and your bot i
 
 You can also turn on `Always On` to further improve your hosting experience.
 
-{
-  "embeds": [
-    {
-      "type": "article",
-      "url": "https://discord.com/oauth2/authorize?client_id=1334893231111929909",
-      "title": "Discord - Group Chat That’s All Fun & Games",
-      "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
-      "provider": {
-        "name": "Discord"
-      },
-      "thumbnail": {
-        "url": "https://cdn.discordapp.com/assets/og_img_discord_home.png",
-        "proxy_url": "https://images-ext-1.discordapp.net/external/bl_z4HbNRvQRyKof2-XZ2glNM6d4JbpCc-bC5HiybiQ/https/cdn.discordapp.com/assets/og_img_discord_home.png",
-        "width": 1200,
-        "height": 630,
-        "placeholder": "TAYKFIB2dWiAl3hoh4Z2j+Jo9Q==",
-        "placeholder_version": 1,
-        "flags": 0
-      }
-    }
-  ]
-}
+
 
